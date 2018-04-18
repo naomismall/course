@@ -1,0 +1,17 @@
+<?php
+
+
+//returns FALSE if directory can't be opened
+$handle =  opendir(__DIR__);
+
+while(FALSE !== ($file = readdir($h))){
+
+    echo '<p>' . $file . '</p>' . PHP_EOL;
+    
+    }
+
+// $file = readdir($handle);
+
+closedir($h);
+
+?>

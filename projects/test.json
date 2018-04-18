@@ -1,0 +1,14 @@
+{
+                "RequestPayload": {
+                  "StudentModuleEnrol": {
+                    "StudentRegistrationNo": "150022606",
+                    "CourseShortName": "GEN_ETI_2016-17",
+                    "Role": "student",
+                    "Action": "add",
+                    "Moodle": {},
+                    "ESB": {
+                      "GlobalTransactionId": "17a86beb-5121-4f34-a3d3-1cfdbb8efade"
+                    }
+                  }
+                }
+              }
